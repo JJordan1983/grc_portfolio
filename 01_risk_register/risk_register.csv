@@ -1,0 +1,4 @@
+risk_id,title,description,likelihood_1_to_5,impact_1_to_5,risk_score,owner,mitigation,status,review_date,control_tags
+R-001,Phishing attacks,Credential theft via phishing,4,4,16,Security,Phishing-resistant MFA; awareness training,Open,2025-12-31,"IA-2, AT-2"
+R-002,Vendor outage,Critical SaaS downtime,3,5,15,Vendor Mgmt,BCP evidence; secondary provider,Open,2025-12-31,"CP-2, CP-4"
+R-003,Misconfigured cloud storage,Public data exposure,2,5,10,Cloud,Default deny; encryption; config scans,Open,2025-12-31,"SC-7, SC-28"
