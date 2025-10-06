@@ -1,11 +1,20 @@
-title: "Jeanette Jordan — GRC Portfolio"
-description: "Governance, Risk & Compliance portfolio featuring a Risk Register, Vendor Questionnaire, and Security Policies aligned with NIST frameworks."
+# ===========================
+# Jeanette Jordan — GRC Portfolio Configuration
+# ===========================
 
-# Theme and layout
+title: "Jeanette Jordan — GRC Portfolio"
+tagline: "Federal Cybersecurity Leader | NIST RMF | Microsoft 365 & Azure Security Compliance"
+description: "Governance, Risk & Compliance portfolio demonstrating core documentation: Risk Register, Vendor Security Questionnaire, and Security Policies aligned with NIST and DoD frameworks."
+
+# ---------------------------
+# Theme and Layout
+# ---------------------------
 theme: jekyll-theme-cayman
 show_downloads: false
 
-# Navigation links (show across the top banner)
+# ---------------------------
+# Navigation (Top Banner Links)
+# ---------------------------
 nav:
   - name: "Home"
     link: index.md
@@ -16,15 +25,29 @@ nav:
   - name: "Policies"
     link: 03_policies/README.md
 
-# Footer details (displayed at bottom of every page)
+# ---------------------------
+# Footer (Displayed on Every Page)
+# ---------------------------
 footer_content: |
+  ---
   **Contact:** [JeanetteD_Jordan@outlook.com](mailto:JeanetteD_Jordan@outlook.com)  
   **GitHub:** [github.com/JJordan1983](https://github.com/JJordan1983)  
+  **LinkedIn:** [linkedin.com/in/jeanette-jordan](https://linkedin.com/in/jeanette-jordan)  
   **Location:** Stafford, VA  
   Licensed under the [MIT License](LICENSE)
 
-# Optional site meta info for search and sharing
+# ---------------------------
+# GitHub Metadata
+# ---------------------------
 github:
   is_project_page: true
   repository_url: https://github.com/JJordan1983/grc_portfolio
+
+# ---------------------------
+# Markdown Rendering Settings
+# ---------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+
 
