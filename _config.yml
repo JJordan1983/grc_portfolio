@@ -1,3 +1,30 @@
 title: "Jeanette Jordan — GRC Portfolio"
-description: "Sample Governance, Risk & Compliance portfolio showcasing Risk Register, Vendor Questionnaire, and Security Policies."
+description: "Governance, Risk & Compliance portfolio featuring a Risk Register, Vendor Questionnaire, and Security Policies aligned with NIST frameworks."
+
+# Theme and layout
 theme: jekyll-theme-cayman
+show_downloads: false
+
+# Navigation links (show across the top banner)
+nav:
+  - name: "Home"
+    link: index.md
+  - name: "Risk Register"
+    link: 01_risk_register/README.md
+  - name: "Vendor Questionnaire"
+    link: 02_vendor_questionnaire/README.md
+  - name: "Policies"
+    link: 03_policies/README.md
+
+# Footer details (displayed at bottom of every page)
+footer_content: |
+  **Contact:** [JeanetteD_Jordan@outlook.com](mailto:JeanetteD_Jordan@outlook.com)  
+  **GitHub:** [github.com/JJordan1983](https://github.com/JJordan1983)  
+  **Location:** Stafford, VA  
+  Licensed under the [MIT License](LICENSE)
+
+# Optional site meta info for search and sharing
+github:
+  is_project_page: true
+  repository_url: https://github.com/JJordan1983/grc_portfolio
+
