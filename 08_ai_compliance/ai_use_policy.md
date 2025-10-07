@@ -28,4 +28,4 @@ Exceptions require approval by the **AI Ethics Officer** and ISSM with documente
 
 ---
 
-**Owner:** AI Ethics Officer • **Last Updated:** {{UPDATE_DATE}}
+**Owner:** AI Ethics Officer • **Last Updated:** Tuesday, October 7, 2025
