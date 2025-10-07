@@ -24,4 +24,4 @@
 
 ---
 
-**Owner:** Data Science Lead • **Last Updated:** {{UPDATE_DATE}}
+**Owner:** Data Science Lead • **Last Updated:** Tuesday, October 7, 2025
