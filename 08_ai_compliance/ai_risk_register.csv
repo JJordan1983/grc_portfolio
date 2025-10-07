@@ -1,0 +1,4 @@
+Risk_ID,Risk_Category,Description,Likelihood,Impact,Mitigation,Owner,Status
+AI001,Bias,Training data underrepresents key groups,Medium,High,Bias testing & dataset balancing,AI Ethics Officer,Open
+AI002,Explainability,Model outputs not interpretable to end-users,Medium,Medium,Model card + SHAP + documentation,Data Scientist,In Progress
+AI003,Privacy,Personal data included in logs,Low,High,PII redaction + retention limits,ISSO,Open
