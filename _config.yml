@@ -4,13 +4,19 @@
 
 title: "Jeanette Jordan — GRC Portfolio"
 tagline: "Federal Cybersecurity Leader | NIST RMF | Microsoft 365 & Azure Security Compliance"
-description: "Governance, Risk & Compliance portfolio demonstrating core documentation: Risk Register, Vendor Security Questionnaire, and Security Policies aligned with NIST and DoD frameworks."
+description: >
+  Governance, Risk & Compliance portfolio demonstrating documentation and control implementation
+  aligned with FedRAMP Moderate, NIST SP 800-53 Rev. 5, and DoD cybersecurity frameworks.
 
 # ---------------------------
 # Theme and Layout
 # ---------------------------
 theme: jekyll-theme-cayman
 show_downloads: false
+
+# Cayman Theme Skin (auto-selects light/dark if supported)
+minima:
+  skin: auto
 
 # ---------------------------
 # Navigation (Top Banner Links)
@@ -24,6 +30,16 @@ nav:
     link: 02_vendor_questionnaire/README.md
   - name: "Policies"
     link: 03_policies/README.md
+  - name: "Incident Response"
+    link: 04_incident_response/README.md
+  - name: "Continuous Monitoring"
+    link: 05_continuous_monitoring/README.md
+  - name: "Data Classification"
+    link: 06_data_classification/README.md
+  - name: "Vuln Mgmt"
+    link: 07_vulnerability_management/README.md
+  - name: "AI Compliance"
+    link: 08_ai_compliance/README.md
 
 # ---------------------------
 # Footer (Displayed on Every Page)
@@ -44,10 +60,35 @@ github:
   repository_url: https://github.com/JJordan1983/grc_portfolio
 
 # ---------------------------
+# SEO and Plugins
+# ---------------------------
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ---------------------------
 # Markdown Rendering Settings
 # ---------------------------
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
+# ---------------------------
+# Exclusions
+# ---------------------------
+exclude:
+  - "*.zip"
+  - "README_local.md"
+  - "NAV_NOTES_FOR_CONFIG_YML.md"
 
+# ---------------------------
+# Author Information
+# ---------------------------
+author:
+  name: "Jeanette Jordan"
+  email: "JeanetteD_Jordan@outlook.com"
+  location: "Stafford, VA"
+  organization: "APJ Enterprise LLC"
