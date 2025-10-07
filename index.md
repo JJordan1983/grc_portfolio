@@ -33,7 +33,7 @@ Plain-language policies written for clarity, helping employees and stakeholders 
 ---
 
 ### 📘 About Me
-I’m an experienced **Information Systems Security Manager (ISSM)** supporting the **U.S. Marine Corps University** and federal cybersecurity initiatives.  
+I’m an experienced **Information Systems Security Professional** supporting the **U.S. Marine Corps University** and federal cybersecurity initiatives.  
 My expertise spans **NIST RMF compliance**, **Microsoft 365 and Azure security**, and **continuous monitoring** to maintain Authority to Operate (ATO) for enterprise systems.  
 I’m driven by a mission-focused approach—translating regulatory requirements into actionable, sustainable security practices.
 
