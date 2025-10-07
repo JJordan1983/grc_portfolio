@@ -14,7 +14,7 @@ description: >
 theme: jekyll-theme-cayman
 show_downloads: false
 
-# Cayman Theme Skin (auto-selects light/dark if supported)
+# Optional color mode support (for modern browsers)
 minima:
   skin: auto
 
@@ -25,11 +25,11 @@ nav:
   - name: "Home"
     link: index.md
   - name: "Risk Register"
-    link: 01_risk_register/README.md
+    link: 01_risk_register/index.md
   - name: "Vendor Questionnaire"
-    link: 02_vendor_questionnaire/README.md
+    link: 02_vendor_questionnaire/index.md
   - name: "Policies"
-    link: 03_policies/README.md
+    link: 03_policies/index.md
   - name: "Incident Response"
     link: 04_incident_response/README.md
   - name: "Continuous Monitoring"
@@ -60,7 +60,7 @@ github:
   repository_url: https://github.com/JJordan1983/grc_portfolio
 
 # ---------------------------
-# SEO and Plugins
+# Plugins for SEO and Sitemap
 # ---------------------------
 plugins:
   - jekyll-seo-tag
@@ -77,7 +77,7 @@ kramdown:
       line_numbers: false
 
 # ---------------------------
-# Exclusions
+# Exclusions (Optional)
 # ---------------------------
 exclude:
   - "*.zip"
