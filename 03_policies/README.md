@@ -1,2 +1,2 @@
 # Policies
-Includes two one-page documents: Password Policy and Acceptable Use Policy.
+Includes three one-page documents: Password Policy, Access Management and Acceptable Use Policy.
