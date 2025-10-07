@@ -28,6 +28,7 @@ Plain-language policies written for clarity, helping employees and stakeholders 
 
 ➡️ [Password and Passphrase Policy](./03_policies/password_policy.md)  
 ➡️ [Acceptable Use Policy](./03_policies/acceptable_use_policy.md)
+➡️ [Access Management Policy](./03_policies/access_management_policy.md)
 
 ---
 
