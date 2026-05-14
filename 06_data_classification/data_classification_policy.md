@@ -1,4 +1,4 @@
-# 🗂️ Data Classification & Handling Policy
+# Data Classification & Handling Policy
 **APJ Enterprise LLC — NIST SP 800‑171 | DoDI 5200.48 | NIST SP 800‑53 Rev.5 (MP‑2, MP‑4, PL‑2)**
 
 ## 1. Purpose
