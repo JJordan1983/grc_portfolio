@@ -1,4 +1,4 @@
-# 📝 AI System Impact Assessment (AIIA) — Template
+# AI System Impact Assessment (AIIA) — Template
 
 **System/Model Name:**  
 **Owner:**  
