@@ -1,4 +1,4 @@
-# 🤖 AI Use Policy
+# AI Use Policy
 **APJ Enterprise LLC — NIST AI RMF v1.0 (Govern, Map, Measure, Manage) | EO 14110 | DoD Data Strategy**
 
 ## 1. Purpose
