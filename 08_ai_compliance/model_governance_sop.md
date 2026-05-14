@@ -1,4 +1,4 @@
-# ⚙️ Model Governance SOP
+# Model Governance SOP
 **APJ Enterprise LLC — NIST AI RMF v1.0 | ISO/IEC 42001 (in progress)**
 
 ## 1. Registration & Documentation
