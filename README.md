@@ -6,23 +6,23 @@ This repository showcases my applied documentation, policy authorship, and contr
 
 ---
 
-## 📌 Overview
+## Overview
 Each folder represents a distinct compliance artifact, policy set, or technical lab used to demonstrate proficiency in **federal security governance, risk management, and control validation.**  
 
 | Section | Description |
 |----------|--------------|
-| [📊 Risk Register](./01_risk_register/) | Example risk catalog with scoring rubric (NIST SP 800-30). |
-| [🧩 Vendor Security Questionnaire](./02_vendor_questionnaire/) | Supplier risk review modeled after NIST SR and FedRAMP SA-9 controls. |
-| [🧱 Security Policies (FedRAMP Moderate)](./03_policies/) | Password, Access Management, and Acceptable Use policies. |
-| [🛡️ Incident Response](./04_incident_response/) | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
-| [📈 Continuous Monitoring](./05_continuous_monitoring/) | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
-| [🗂️ Data Classification](./06_data_classification/) | Classification matrix for CUI, PII, and internal data per DoDI 5200.48. |
-| [🧱 Vulnerability Management](./07_vulnerability_management/) | ACAS/Defender workflow, patch validation checklist, and metrics report. |
-| [🤖 AI Compliance](./08_ai_compliance/) | NIST AI RMF–aligned governance: Use Policy, Risk Register, Model SOP, and Impact Assessment. |
+| [Risk Register](./01_risk_register/) | Example risk catalog with scoring rubric (NIST SP 800-30). |
+| [Vendor Security Questionnaire](./02_vendor_questionnaire/) | Supplier risk review modeled after NIST SR and FedRAMP SA-9 controls. |
+| [Security Policies (FedRAMP Moderate)](./03_policies/) | Password, Access Management, and Acceptable Use policies. |
+| [Incident Response](./04_incident_response/) | Plan outlining NIST SP 800-61r2 detection, containment, and reporting lifecycle. |
+| [Continuous Monitoring](./05_continuous_monitoring/) | Monthly/quarterly POA&M, vulnerability scan, and metrics process. |
+| [Data Classification](./06_data_classification/) | Classification matrix for CUI, PII, and internal data per DoDI 5200.48. |
+| [Vulnerability Management](./07_vulnerability_management/) | ACAS/Defender workflow, patch validation checklist, and metrics report. |
+| [AI Compliance](./08_ai_compliance/) | NIST AI RMF–aligned governance: Use Policy, Risk Register, Model SOP, and Impact Assessment. |
 
 ---
 
-## 🧭 Framework Alignment
+## Framework Alignment
 This portfolio maps directly to major federal and industry frameworks:
 
 | Framework | Reference |
@@ -35,7 +35,7 @@ This portfolio maps directly to major federal and industry frameworks:
 
 ---
 
-## 🧩 Tools & Platforms Demonstrated
+## Tools & Platforms Demonstrated
 - **Microsoft 365 E5 Security Stack** – Defender, Entra ID, Intune, Purview  
 - **Azure Sentinel (SIEM)** – Incident detection and continuous monitoring metrics  
 - **Tenable ACAS / Nessus** – Vulnerability identification and POA&M linkage  
@@ -43,7 +43,7 @@ This portfolio maps directly to major federal and industry frameworks:
 
 ---
 
-## 👤 About Jeanette Jordan
+## About Jeanette Jordan
 **Information Systems Security Professional** — APJ Enterprise LLC  
 **Location:** Stafford, VA  
 - Over a decade of DoD and federal cybersecurity leadership experience.  
