@@ -1,4 +1,4 @@
-# 🛡️ Incident Response Plan (IRP)
+# Incident Response Plan (IRP)
 **APJ Enterprise LLC — FedRAMP Moderate | NIST SP 800‑53 Rev.5 (IR‑4, IR‑6, IR‑8) | NIST SP 800‑61r2**
 
 ## 1. Purpose & Scope
