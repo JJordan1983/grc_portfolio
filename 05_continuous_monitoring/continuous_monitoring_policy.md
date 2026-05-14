@@ -1,4 +1,4 @@
-# 📈 Continuous Monitoring Policy
+# Continuous Monitoring Policy
 **APJ Enterprise LLC — FedRAMP Moderate | NIST SP 800‑137 | NIST SP 800‑53 Rev.5 (CA‑7, RA‑5, SI‑2)**
 
 ## 1. Purpose
