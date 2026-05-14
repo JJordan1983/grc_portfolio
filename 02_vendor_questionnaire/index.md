@@ -1,5 +1,5 @@
 
-# 🧩 Vendor Security Questionnaire
+# Vendor Security Questionnaire
 
 A supplier due diligence questionnaire modeled after **FedRAMP SA‑9**, **NIST SP 800‑53 SR Controls**, and **DoD vendor vetting practices**.
 
